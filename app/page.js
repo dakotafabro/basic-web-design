@@ -12,7 +12,7 @@ export default function Home() {
           <h3>Reasons I Love To Code:</h3>
           <ol style={{ paddingLeft: "1.25rem" }}>
             <li>Love feeling like a hacker</li>
-            <li>People think I'm a tech wizard (maybe I am...)</li>
+            <li>People think I'm a tech wizard</li>
             <li>Build cool stuff!</li>
           </ol>
 
